@@ -25,7 +25,7 @@ function runPuzzle(inputArray, inputByte) {
 
     inputs[inputByte[3]] = output;
 
-    return 0; // Everything is fine, go on to the next 
+    return 0; // Everything is fine, go on to the next byte
 }
 
 console.log(inputs[0]);
